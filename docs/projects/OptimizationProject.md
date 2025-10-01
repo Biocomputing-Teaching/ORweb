@@ -1,5 +1,5 @@
 ---
-title: ORProgrammingProject
+title: "OR Programming Project"
 date: 2025-10-01
 author: "Jordi Villà-Freixa"
 description: "Instructions for the completion of the Programming project"
