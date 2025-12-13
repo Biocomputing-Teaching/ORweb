@@ -141,7 +141,9 @@ Same as for the Milestone submission.
 Please include a link to a Github repository file with the code for your final project including all the details for the project to be executable without any additional files.
 
 #### Grading
-The final report will be judged based off of the clarity of the report, the relevance of the project to topics taught in this course, the novelty of the problem, and the technical quality and significance of the work.
+The final report will be judged based off of the clarity of the report, the relevance of the project to topics taught in this course, the novelty of the problem, and the technical quality and significance of the work. This is the rubric that will be used:
+
+![rubric](rubric.png)
 
 ---
 
