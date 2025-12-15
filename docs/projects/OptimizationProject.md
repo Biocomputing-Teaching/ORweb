@@ -15,7 +15,7 @@ draft: false
   - [1st submission: Project Proposals](#1st-submission-project-proposals)
     - [Format](#format)
     - [Grading](#grading)
-  - [2nd submission: Milestone](#2nd-submission-milestone)
+  - [Milestone](#milestone)
     - [Contributions](#contributions)
     - [Grading](#grading-1)
     - [Format](#format-1)
@@ -57,7 +57,7 @@ Your project will be submitted in three phases:
 1. **1st submission: Proposal**  
    Submit a brief (one page) proposal outlining your project topic, motivation, planned methods, and expected outcomes.
 2. **2nd submission: Milestone**  
-   Submit an intermediate, functional, and testable implementation of your code, along with a draft of your report. This should demonstrate progress and allow for feedback. 
+   Submit an intermediate, functional, and testable implementation of your code, along with a draft of your report. This should demonstrate progress and allow for feedback. (Note that in this course, this has been replaced by a discussion with the instructor) 
 3. **Final Submission: Full project**  
    Submit the complete project, including all code, results, and the final report in the form of a scientific article. 
 
@@ -99,7 +99,7 @@ The project proposal is mainly intended to make sure you decide on a project top
 
 ---
 
-### 2nd submission: Milestone
+### Milestone
 
 The milestone will help you make sure you're on track, and should describe what you've accomplished so far, and very briefly say what else you plan to do. You should write it as if it's an “early draft" of what will turn into your final project. You can write it as if you're writing the first few pages of your final project report, so that you can re-use most of the milestone text in your final report.
 
@@ -114,6 +114,8 @@ Please include a section that describes what each team member worked on and cont
 
 #### Grading
 The milestone is mostly intended to get feedback from the professor and your peers to make sure you’re making reasonable progress. As long as your milestone follows the instructions above and you seem to have tested any assumptions which might prevent your team from completing the project, you should do well on the milestone.
+
+(Note that this year there is no grading for the milestone)
 
 #### Format  
 Your milestone should be at most 3 pages, excluding references. Similar to the proposal, it should include:
@@ -156,11 +158,11 @@ After the course, if you want to submit your work to an operations research conf
 ## Project FAQs
 
 1. **What are the deliverables as part of the term project?**  
-   The project has four deliverables:  
+   The project has three deliverables:  
    a. Proposal  
-   b. Milestone  
-   d. Final report  
-   Please see the moodle site for due dates and deadlines.
+   b. Milestone (discussion with instructor on the project)
+   c. Final report  
+   Please see the moodle site for due dates and deadlines. 
 
 2. **Should the final project use only methods taught in the class?**  
    No, we don't restrict you to only use methods/topics/problems taught in class. That said, you can always consult a TA if you are unsure about any method or problem statement.
