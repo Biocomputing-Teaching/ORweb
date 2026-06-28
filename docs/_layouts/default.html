@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="site-nav" aria-label="Main navigation">
+        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <div class="site-links">
+          <a href="{{ '/' | relative_url }}">Home</a>
+          <a href="{{ '/sessions/Unit1_Introduction.pdf' | relative_url }}">Slides</a>
+          <a href="{{ '/exercises/SolvedExercisesOR.pdf' | relative_url }}">Exercises</a>
+          <a href="{{ '/projects/OptimizationProject.html' | relative_url }}">Project</a>
+          <a href="{{ '/about.html' | relative_url }}">About</a>
+        </div>
+      </nav>
+    </header>
+    <main>
+      {{ content }}
+    </main>
+    <footer class="site-footer">
+      <span>{{ site.title }}</span>
+      <span>Jordi Villà-Freixa</span>
+    </footer>
+  </body>
+</html>

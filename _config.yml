@@ -1,5 +1,6 @@
-theme: jekyll-theme-minimal
-  lsi: false
+title: Optimization and Operations Research
+description: Course material for Optimization and Operations Research.
+lsi: false
 safe: true
 source: docs
 defaults:
@@ -9,7 +10,6 @@ defaults:
     values:
       layout: "default"
 incremental: false
-layouts_dir: _layouts
 highlighter: rouge
 gist:
   noscript: false
